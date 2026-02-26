@@ -1,2 +1,7 @@
-# treendxreel
-Virals trends the tiktok autoupload for Instagram reels
+ 
+![Logo del proyecto](a.png)
+
+ 
+![Captura de pantalla](a.jpg)
+
+ 
